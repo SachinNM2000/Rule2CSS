@@ -1,0 +1,18 @@
+.abc{
+    background-color:blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.xyz{
+    background-color: cornflowerblue;
+    font-size: 25px;
+}
+#ijk{
+    background-color:darkslategray;
+    font-style: italic;
+    font-size: 30px;
+}
+#pqr{
+    background-color: gold;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
